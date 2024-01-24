@@ -10,7 +10,7 @@ import mercy from "../../../public/mercy.jpg"
 import ella from "../../../public/Ella.jpg"
 import favour from "../../../public/favour.jpg"
 import jerry from "../../../public/jerry.jpeg"
-import maro from "../../../public/maro.jpg"
+import maro from "../../../public/Maro.jpg"
 import henry from "../../../public/my pics.jpg"
 import chidera from "../../../public/Chidera.jpg"
 // import { Navigate } from "react-router-dom";
